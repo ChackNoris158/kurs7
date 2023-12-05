@@ -1,0 +1,107 @@
+\\alpha\ip521-18$\Мои документы\БД\Курсовая\Курсовая\Курсовая\bin\Debug\Курсовая.exe.config
+\\alpha\ip521-18$\Мои документы\БД\Курсовая\Курсовая\Курсовая\bin\Debug\Курсовая.exe
+\\alpha\ip521-18$\Мои документы\БД\Курсовая\Курсовая\Курсовая\bin\Debug\Курсовая.pdb
+\\alpha\ip521-18$\Мои документы\БД\Курсовая\Курсовая\Курсовая\bin\Debug\MaterialSkin.dll
+\\alpha\ip521-18$\Мои документы\БД\Курсовая\Курсовая\Курсовая\obj\Debug\Курсовая.csprojAssemblyReference.cache
+\\alpha\ip521-18$\Мои документы\БД\Курсовая\Курсовая\Курсовая\obj\Debug\Курсовая.Form1.resources
+\\alpha\ip521-18$\Мои документы\БД\Курсовая\Курсовая\Курсовая\obj\Debug\Курсовая.Properties.Resources.resources
+\\alpha\ip521-18$\Мои документы\БД\Курсовая\Курсовая\Курсовая\obj\Debug\Курсовая.csproj.GenerateResource.cache
+\\alpha\ip521-18$\Мои документы\БД\Курсовая\Курсовая\Курсовая\obj\Debug\Курсовая.csproj.CoreCompileInputs.cache
+\\alpha\ip521-18$\Мои документы\БД\Курсовая\Курсовая\Курсовая\obj\Debug\Курсовая.csproj.CopyComplete
+\\alpha\ip521-18$\Мои документы\БД\Курсовая\Курсовая\Курсовая\obj\Debug\Курсовая.exe
+\\alpha\ip521-18$\Мои документы\БД\Курсовая\Курсовая\Курсовая\obj\Debug\Курсовая.pdb
+\\alpha\ip521-18$\Мои документы\БД\Курсовая\Курсовая\Курсовая\obj\Debug\Курсовая.Form2.resources
+H:\Programs\Рпм\Курсовая\Курсовая\Курсовая\bin\Debug\Курсовая.exe.config
+H:\Programs\Рпм\Курсовая\Курсовая\Курсовая\bin\Debug\Курсовая.exe
+H:\Programs\Рпм\Курсовая\Курсовая\Курсовая\bin\Debug\Курсовая.pdb
+H:\Programs\Рпм\Курсовая\Курсовая\Курсовая\bin\Debug\MaterialSkin.dll
+H:\Programs\Рпм\Курсовая\Курсовая\Курсовая\obj\Debug\Курсовая.csprojAssemblyReference.cache
+H:\Programs\Рпм\Курсовая\Курсовая\Курсовая\obj\Debug\Курсовая.Form1.resources
+H:\Programs\Рпм\Курсовая\Курсовая\Курсовая\obj\Debug\Курсовая.Form2.resources
+H:\Programs\Рпм\Курсовая\Курсовая\Курсовая\obj\Debug\Курсовая.Properties.Resources.resources
+H:\Programs\Рпм\Курсовая\Курсовая\Курсовая\obj\Debug\Курсовая.csproj.GenerateResource.cache
+H:\Programs\Рпм\Курсовая\Курсовая\Курсовая\obj\Debug\Курсовая.csproj.CoreCompileInputs.cache
+H:\Programs\Рпм\Курсовая\Курсовая\Курсовая\obj\Debug\Курсовая.csproj.CopyComplete
+H:\Programs\Рпм\Курсовая\Курсовая\Курсовая\obj\Debug\Курсовая.exe
+H:\Programs\Рпм\Курсовая\Курсовая\Курсовая\obj\Debug\Курсовая.pdb
+D:\Курсовая\Курсовая\bin\Debug\Курсовая.exe.config
+D:\Курсовая\Курсовая\bin\Debug\Курсовая.exe
+D:\Курсовая\Курсовая\bin\Debug\Курсовая.pdb
+D:\Курсовая\Курсовая\bin\Debug\MaterialSkin.dll
+D:\Курсовая\Курсовая\obj\Debug\Курсовая.csproj.AssemblyReference.cache
+D:\Курсовая\Курсовая\obj\Debug\Курсовая.Form1.resources
+D:\Курсовая\Курсовая\obj\Debug\Курсовая.Form2.resources
+D:\Курсовая\Курсовая\obj\Debug\Курсовая.Properties.Resources.resources
+D:\Курсовая\Курсовая\obj\Debug\Курсовая.csproj.GenerateResource.cache
+D:\Курсовая\Курсовая\obj\Debug\Курсовая.csproj.CoreCompileInputs.cache
+D:\Курсовая\Курсовая\obj\Debug\Курсовая.csproj.CopyComplete
+D:\Курсовая\Курсовая\obj\Debug\Курсовая.exe
+D:\Курсовая\Курсовая\obj\Debug\Курсовая.pdb
+D:\Курсовая\Курсовая\bin\Debug\EPPlus.dll
+D:\Курсовая\Курсовая\bin\Debug\EPPlus.Interfaces.dll
+D:\Курсовая\Курсовая\bin\Debug\EPPlus.System.Drawing.dll
+D:\Курсовая\Курсовая\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+D:\Курсовая\Курсовая\bin\Debug\System.ComponentModel.Annotations.dll
+D:\Курсовая\Курсовая\bin\Debug\EPPlus.xml
+D:\Курсовая\Курсовая\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+D:\Курсовая\Курсовая\obj\Debug\Курсовая.Form3.resources
+\\alpha\ip521-11$\Мои документы\GitHub\kurs2\Курсовая\bin\Debug\Курсовая.exe.config
+\\alpha\ip521-11$\Мои документы\GitHub\kurs2\Курсовая\bin\Debug\Курсовая.exe
+\\alpha\ip521-11$\Мои документы\GitHub\kurs2\Курсовая\bin\Debug\Курсовая.pdb
+\\alpha\ip521-11$\Мои документы\GitHub\kurs2\Курсовая\bin\Debug\EPPlus.xml
+\\alpha\ip521-11$\Мои документы\GitHub\kurs2\Курсовая\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+\\alpha\ip521-11$\Мои документы\GitHub\kurs2\Курсовая\obj\Debug\Курсовая.csprojAssemblyReference.cache
+\\alpha\ip521-11$\Мои документы\GitHub\kurs2\Курсовая\obj\Debug\Курсовая.Form1.resources
+\\alpha\ip521-11$\Мои документы\GitHub\kurs2\Курсовая\obj\Debug\Курсовая.Form2.resources
+\\alpha\ip521-11$\Мои документы\GitHub\kurs2\Курсовая\obj\Debug\Курсовая.Form3.resources
+\\alpha\ip521-11$\Мои документы\GitHub\kurs2\Курсовая\obj\Debug\Курсовая.Properties.Resources.resources
+\\alpha\ip521-11$\Мои документы\GitHub\kurs2\Курсовая\obj\Debug\Курсовая.csproj.GenerateResource.cache
+\\alpha\ip521-11$\Мои документы\GitHub\kurs2\Курсовая\obj\Debug\Курсовая.csproj.CoreCompileInputs.cache
+\\alpha\ip521-11$\Мои документы\GitHub\kurs2\Курсовая\obj\Debug\Курсовая.csproj.CopyComplete
+\\alpha\ip521-11$\Мои документы\GitHub\kurs2\Курсовая\obj\Debug\Курсовая.exe
+\\alpha\ip521-11$\Мои документы\GitHub\kurs2\Курсовая\obj\Debug\Курсовая.pdb
+D:\Курсовая\kurs2\Курсовая\bin\Debug\Курсовая.exe.config
+D:\Курсовая\kurs2\Курсовая\bin\Debug\Курсовая.exe
+D:\Курсовая\kurs2\Курсовая\bin\Debug\Курсовая.pdb
+D:\Курсовая\kurs2\Курсовая\bin\Debug\EPPlus.xml
+D:\Курсовая\kurs2\Курсовая\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+D:\Курсовая\kurs2\Курсовая\obj\Debug\Курсовая.csproj.AssemblyReference.cache
+D:\Курсовая\kurs2\Курсовая\obj\Debug\Курсовая.Form1.resources
+D:\Курсовая\kurs2\Курсовая\obj\Debug\Курсовая.Form2.resources
+D:\Курсовая\kurs2\Курсовая\obj\Debug\Курсовая.Form3.resources
+D:\Курсовая\kurs2\Курсовая\obj\Debug\Курсовая.Properties.Resources.resources
+D:\Курсовая\kurs2\Курсовая\obj\Debug\Курсовая.csproj.GenerateResource.cache
+D:\Курсовая\kurs2\Курсовая\obj\Debug\Курсовая.csproj.CoreCompileInputs.cache
+D:\Курсовая\kurs2\Курсовая\obj\Debug\Курсовая.csproj.CopyComplete
+D:\Курсовая\kurs2\Курсовая\obj\Debug\Курсовая.exe
+D:\Курсовая\kurs2\Курсовая\obj\Debug\Курсовая.pdb
+C:\Users\ip521-11\Downloads\kurs5-main\kurs2\Курсовая\bin\Debug\Курсовая.exe.config
+C:\Users\ip521-11\Downloads\kurs5-main\kurs2\Курсовая\bin\Debug\Курсовая.exe
+C:\Users\ip521-11\Downloads\kurs5-main\kurs2\Курсовая\bin\Debug\Курсовая.pdb
+C:\Users\ip521-11\Downloads\kurs5-main\kurs2\Курсовая\bin\Debug\EPPlus.xml
+C:\Users\ip521-11\Downloads\kurs5-main\kurs2\Курсовая\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+C:\Users\ip521-11\Downloads\kurs5-main\kurs2\Курсовая\obj\Debug\Курсовая.csprojAssemblyReference.cache
+C:\Users\ip521-11\Downloads\kurs5-main\kurs2\Курсовая\obj\Debug\Курсовая.Form1.resources
+C:\Users\ip521-11\Downloads\kurs5-main\kurs2\Курсовая\obj\Debug\Курсовая.Form2.resources
+C:\Users\ip521-11\Downloads\kurs5-main\kurs2\Курсовая\obj\Debug\Курсовая.Form3.resources
+C:\Users\ip521-11\Downloads\kurs5-main\kurs2\Курсовая\obj\Debug\Курсовая.Properties.Resources.resources
+C:\Users\ip521-11\Downloads\kurs5-main\kurs2\Курсовая\obj\Debug\Курсовая.csproj.GenerateResource.cache
+C:\Users\ip521-11\Downloads\kurs5-main\kurs2\Курсовая\obj\Debug\Курсовая.csproj.CoreCompileInputs.cache
+C:\Users\ip521-11\Downloads\kurs5-main\kurs2\Курсовая\obj\Debug\Курсовая.csproj.CopyComplete
+C:\Users\ip521-11\Downloads\kurs5-main\kurs2\Курсовая\obj\Debug\Курсовая.exe
+C:\Users\ip521-11\Downloads\kurs5-main\kurs2\Курсовая\obj\Debug\Курсовая.pdb
+D:\kurs6-main\kurs2\Курсовая\bin\Debug\Курсовая.exe.config
+D:\kurs6-main\kurs2\Курсовая\bin\Debug\Курсовая.exe
+D:\kurs6-main\kurs2\Курсовая\bin\Debug\Курсовая.pdb
+D:\kurs6-main\kurs2\Курсовая\bin\Debug\EPPlus.xml
+D:\kurs6-main\kurs2\Курсовая\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+D:\kurs6-main\kurs2\Курсовая\obj\Debug\Курсовая.csproj.AssemblyReference.cache
+D:\kurs6-main\kurs2\Курсовая\obj\Debug\Курсовая.Form1.resources
+D:\kurs6-main\kurs2\Курсовая\obj\Debug\Курсовая.Form2.resources
+D:\kurs6-main\kurs2\Курсовая\obj\Debug\Курсовая.Form3.resources
+D:\kurs6-main\kurs2\Курсовая\obj\Debug\Курсовая.Properties.Resources.resources
+D:\kurs6-main\kurs2\Курсовая\obj\Debug\Курсовая.csproj.GenerateResource.cache
+D:\kurs6-main\kurs2\Курсовая\obj\Debug\Курсовая.csproj.CoreCompileInputs.cache
+D:\kurs6-main\kurs2\Курсовая\obj\Debug\Курсовая.csproj.CopyComplete
+D:\kurs6-main\kurs2\Курсовая\obj\Debug\Курсовая.exe
+D:\kurs6-main\kurs2\Курсовая\obj\Debug\Курсовая.pdb
